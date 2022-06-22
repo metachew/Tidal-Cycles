@@ -1,0 +1,23 @@
+blues_basic key = note (("<<c f g> f c!2>" |+ "'dom7") |+ key)
+
+blues_jazz key = note (("<c f d>" |+ "'dom7") |+ key)
+
+blues_bird key = note (("
+<c'major7 f'dom7 d'minor7> 
+<[b'minor7 e'dom7] x g'dom7> 
+<a'minor7 x [c'major7 f'dom7]> 
+<[g'minor7 c'dom7]  x [d'minor7 g'dom7]>
+) |+ key )
+
+1 c'major7 --TARGET1
+2 [b'minor7 e'dom7]
+3 a'minor7
+4 [g'minor7 c'dom7]
+5 f'dom7 --TARGET2
+6 [f'minor7 b'dom7]
+7 [es'minor7 as'dom7]
+8 [e'minor7 a'dom7]
+9 d'minor7
+10 g'dom7 --TARGET3
+11 [c'major7 a'dom7]
+12 [d'minor7 g'dom7]
