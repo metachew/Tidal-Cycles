@@ -1,0 +1,15 @@
+0  --unison (prime), One note
+1  --minor second, very tense
+2  --major second, tense
+3  --minor third, sweet and pleasant sounding - sad
+4  --major third, sweet and pleasant sounding - happy
+5  --fourth, sounds open, ancient, but with a rub, wants to resolve to the major third
+6  --Tritone (aug fourth/dim fifth), wants to resolve. interesting tension. Bluesy
+7  --fifth, sounds open, ancient, no rub.  Does not add much information to a chord but adds fullness of sound.
+8  --minor sixth, Further apart than thirds.  Passionate, longing sounding
+9  --major sixth, sweet and pleasant sounding.  further apart than thirds.
+10 --minor seventh, Tense, but less so than seconds.
+11 --major seventh, very tense, wants to resolve to octave, but can sound stable and pleasant with other notes present.
+12 --octave, same note, just in different range.
+
+--bluesy sound, 3,6,10
